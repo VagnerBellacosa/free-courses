@@ -277,6 +277,10 @@
 | [The Odin Project](https://www.theodinproject.com/) | :us: |
 | [Via rapida - Trilhas sp tech](http://www.viarapida.sp.gov.br/trilhas-sp-tech/desenvolvedor-web-full-stack) | :brazil: |
 
+#### Design
+| Link | Idioma |
+| ----- | :-----: |
+| [Design Para Todos](https://beta.sympla.com.br/play/design-e-para-todos---curso-intensivo-de-design-visual--grafico/1090448) | :brazil: |
 
 ## ⚖ Licença
 
