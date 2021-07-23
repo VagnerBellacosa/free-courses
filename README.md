@@ -12,6 +12,7 @@
 📌 [Data Science](#data-science)<br>
 📌 [Infrastructure Courses](#infrastructure-courses)<br>
 📌 [FullStack courses](#fullstack-courses)<br>
+📌 [Design courses](#Design-courses)<br>
 
 
 ## 💻 Git and Github Courses
@@ -276,6 +277,8 @@
 | ----- | :-----: |
 | [The Odin Project](https://www.theodinproject.com/) | :us: |
 | [Via rapida - Trilhas sp tech](http://www.viarapida.sp.gov.br/trilhas-sp-tech/desenvolvedor-web-full-stack) | :brazil: |
+
+## 💻 Design courses
 
 #### Design
 | Link | Idioma |
